@@ -1,0 +1,13 @@
+.iframeContainer {
+    padding: 20px;
+    border: 1px solid bisque;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    padding-bottom: 80px;
+}
